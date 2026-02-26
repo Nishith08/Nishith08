@@ -1,4 +1,4 @@
-# Hi there, I'm [Nishith Solanki] 👋
+# Hi there, I'm [Nishith] 👋
 
 ### 👨‍💻 Full-Stack Developer & IoT Enthusiast
 I am a Computer Science & Engineering graduate based in **Vadodara**, focused on building scalable web applications and innovative automation solutions. Currently, I lead tech initiatives.
